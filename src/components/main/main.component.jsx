@@ -13,11 +13,11 @@ const Main = ({ lang }) => (
         {/* <FactsSection /> */}
         <SkillsSection lang={lang} />
         <ResumeSection lang={lang} />
-        <PortfolioSection />
+        {/* <PortfolioSection />
         <ServicesSection />
         <TestimonialsSection />
-        <ContactSection />
-  </main>
+        <ContactSection /> */}
+    </main>
 );
 
 export default Main;
