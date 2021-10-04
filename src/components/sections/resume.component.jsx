@@ -58,7 +58,7 @@ const ResumeSection = ({ lang }) => (
               <h4>برنامه نویس ارشد PHP و Laravel</h4>
               <h5>1397 - 1398</h5>
               <p>
-                <em>زوپسی</em>
+                <em>جنریک</em>
               </p>
               <ul>
                 <li>
@@ -76,7 +76,7 @@ const ResumeSection = ({ lang }) => (
               <h4>برنامه نویس PHP و Laravel</h4>
               <h5>1396 - 1397</h5>
               <p>
-                <em>زوپسی</em>
+                <em>جنریک</em>
               </p>
               <ul>
                 <li>
@@ -148,7 +148,7 @@ const ResumeSection = ({ lang }) => (
               <h4>Senior PHP &amp; Laravel Programer</h4>
               <h5>2018 - 2019</h5>
               <p>
-                <em>ZoopC </em>
+                <em>Generic </em>
               </p>
               <ul>
                 <li>
@@ -166,7 +166,7 @@ const ResumeSection = ({ lang }) => (
               <h4>junior PHP &amp; Laravel Programer</h4>
               <h5>2017 - 2018</h5>
               <p>
-                <em>ZoopC </em>
+                <em>Generic </em>
               </p>
               <ul>
                 <li>
