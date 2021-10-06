@@ -38,6 +38,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.display__block{
+  display: block !important;
+}
+
 body {
   font-family: "Open Sans", "IranSans", sans-serif;
   color: #272829;
@@ -854,7 +858,7 @@ section {
   display: none;
   color: #fff;
   background: #ed3c0d;
-  text-align: left;
+  text-align: center;
   padding: 15px;
   font-weight: 600;
 }

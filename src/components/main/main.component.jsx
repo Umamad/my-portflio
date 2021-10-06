@@ -13,7 +13,7 @@ const Main = ({ lang }) => (
         {/* <FactsSection /> */}
         <SkillsSection lang={lang} />
         <ResumeSection lang={lang} />
-        {/* <PortfolioSection /> */}
+        {/* <PortfolioSection />  */}
         <ServicesSection lang={lang} />
         {/* <TestimonialsSection />*/}
         <ContactSection lang={lang} /> 
